@@ -1,0 +1,9 @@
+alt + shift + flecha de linea 
+
+control + f
+
+Ejercicio1.php
+
+localhost/M0487/Ejercicios/Ejercicio%201/Ejercicio1.php
+
+http://localhost/M0487/Ejercicios/Ejercicio%201/Ejercicio1.php
