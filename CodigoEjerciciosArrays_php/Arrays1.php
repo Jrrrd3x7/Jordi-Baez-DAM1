@@ -84,7 +84,7 @@
         }
     }
 
-    echo "<h4>Ejercicio 7</h4>";
+    echo "<h4>Ejercicio 8</h4>";
     echo "<br>";
     $notas = array("Miguel" => "5", "Luis" => "7", "Marta" => "10", "Isabel" => "8", "Aitor" => "4", "Pepe" => "1");
     //Creo esta variable para asegurarme que el valor de la nota siempre sea mayor.
